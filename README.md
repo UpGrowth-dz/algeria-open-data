@@ -15,7 +15,7 @@ Reference datasets on Algerian business administration, published as open data b
 
 ## Files
 
-Version 2026-11-13, in data/ (SHA-256 in data/SHA256SUMS.txt): cnrc-2026.csv, anae-2026.csv, journal-officiel-archive.csv, jo-ref-index.json, wilayas-2026.csv, tarif-douanier-sections-chapitres.csv.
+October 2026 release, frozen (CNRC and wilayas of 2026-10-20, ANAE of 2026-10-01, Journal officiel and customs files older). Live, daily updated data is served by the UpGrowth API and MCP: https://www.upgrowth.dz/api. Files in data/ (SHA-256 in data/SHA256SUMS.txt): cnrc-2026.csv, anae-2026.csv, journal-officiel-archive.csv, jo-ref-index.json, wilayas-2026.csv, tarif-douanier-sections-chapitres.csv.
 
 Each CSV row ends with ug_ref, the UpGrowth record reference. Quote it when you cite a record or report an error.
 
