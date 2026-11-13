@@ -13,6 +13,12 @@ Reference datasets on Algerian business administration, published as open data b
 | Wilayas | 58 | Administrative contact points |
 | Customs tariff sections and chapters | 96 | French, English, Arabic |
 
+## Files
+
+Version 2026-11-13, in data/ (SHA-256 in data/SHA256SUMS.txt): cnrc-2026.csv, anae-2026.csv, journal-officiel-archive.csv, jo-ref-index.json, wilayas-2026.csv, tarif-douanier-sections-chapitres.csv.
+
+Each CSV row ends with ug_ref, the UpGrowth record reference. Quote it when you cite a record or report an error.
+
 ## Access
 
 Archived deposit with DOI: [10.5281/zenodo.22237489](https://doi.org/10.5281/zenodo.22237489)
