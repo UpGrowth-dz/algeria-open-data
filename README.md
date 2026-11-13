@@ -6,8 +6,8 @@ Reference datasets on Algerian business administration, published as open data b
 
 | Dataset | Records | Coverage |
 |---|---|---|
-| CNRC commercial activity nomenclature | 2,134 codes | French, English, Arabic |
-| ANAE auto-entrepreneur activities | 1,491 activities | French, English, Arabic |
+| CNRC commercial activity nomenclature | 2,136 codes | French, English, Arabic |
+| ANAE auto-entrepreneur activities | 1,564 activities | French, English, Arabic |
 | Journal Officiel archive index | 5,288 issues | 1962 to 2026 |
 | Journal Officiel reference index | 2,017 issues | 2002 to 2026 |
 | Wilayas | 58 | Administrative contact points |
